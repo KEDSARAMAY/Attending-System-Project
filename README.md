@@ -7,6 +7,6 @@ There are usernames and passwords of users in an officer_user.csv(officer user),
 Report https://drive.google.com/file/d/1Oy07ZSeHoIGtWxjkA8s8iYyScHfMwWMa/view?usp=sharing
 
 Our Team
-Kedsaraporn Ruechai
-Supitcha Piamnitikorn
+Kedsaraporn Ruechai,
+Supitcha Piamnitikorn,
 Yathip Charoenvaravut
